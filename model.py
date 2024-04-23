@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("adding model 1")
+
+print("model2 is performaing better")
